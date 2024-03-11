@@ -28,12 +28,15 @@ Finally, you can just run the python file by running this:
 ```
 python .\setup.py
 ```
-
+Here is what the GUI should look like 
+![alt text](images/gui.png)
 
 # What I learned from this Project
--webscraping, learned how to bypass authentication requirements 
--handling and cleaning data (much harder than I thought it'd be)
--learned somewhat about the methods of vectorizing text, and what works best with what 
--I had previously learned pandas from a book, but definetly got a lot more experienced with it :D
+-webscraping, learned how to bypass authentication requirements  
+-handling and cleaning data (much harder than I thought it'd be)  
+-learned somewhat about the methods of vectorizing text, and what works best with what  
+-I had previously learned pandas from a book, but definetly got a lot more experienced with it 
+
+I think eventually I'll build a website and frontend for fun
 
 # Enjoy reading! 
