@@ -1,0 +1,17 @@
+REQUIREMENTS TO TRY OUT DEMO : 
+Python
+numpy 
+pandas
+tkinter 
+sv_ttk
+
+REQUIREMENTS to build: 
+selenium (driver)
+bs4 
+nest_asyncio
+asyncio 
+nltk
+spacy (en_core_web_sm)
+regex
+sklearn
+scipy
